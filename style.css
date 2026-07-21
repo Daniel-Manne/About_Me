@@ -1,0 +1,115 @@
+body {
+  background-color:lightblue;
+}
+
+#container{
+  width: 800px;
+  height: 500px;
+  margin: auto;
+}
+
+#name {
+  background-color:#14b39c;
+  color:white;
+  height : 100px;
+  width: 100%;
+  text-align: center;
+  padding-top: 15px;
+  
+}
+
+#links{
+  color:white;
+  background-color:lightgray;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  font-size:25px;
+}
+
+
+
+a{
+  color: #5C4E4e;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration-line: none;
+}
+a:hover {
+  color:black;
+  background-color: #14b39c;
+  border-radius: 15px;
+}
+
+#About_me {
+  color:white;
+  background-color: #14b39c;
+  text-align:center;
+  margin: auto;
+  padding:15px;
+}
+
+#About_me_2 {
+  color:white;
+  background-color: #14b39c;
+  text-align:center;
+  padding:15px;
+}
+
+img{
+  width:100%;
+  display:block;
+  margin: auto;
+}
+ 
+.hobby {
+  border: 3px solid black;
+  padding : 15px;
+  margin-top: 10px;
+
+}
+
+.game{
+  position: absolute;
+  width: 300px;
+  background-color: #F6EEE0;
+  color: #3B0404;
+  padding: 15px;
+  
+}
+
+#games{
+  background-color: #2a3932;
+  color: white;
+  padding: 15px;
+  height: 1200px;
+  position: relative;
+  }
+
+.first{
+  right: 15px;
+}
+
+.second {
+  left: 15px;
+  top:250px;
+}
+.third{
+  left:440px;
+}
+
+.Project{
+  padding:20px;
+  border: 3px solid black;
+}
+
+.credits{
+  color:black;
+  font:bold;
+}
+
+.credits:hover{
+  color:black;
+  font:bold;
+}
