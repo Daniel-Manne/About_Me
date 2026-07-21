@@ -1,2 +1,1 @@
-vfdgfsdgdfddfdgddfs
-fdsfasdfdsafdsfdsafsdsf
+Hi this is my about me website. I created this website a while back before this challenge but i wanted to edit it and upload it here. I love coding so I hope you like my website.
