@@ -107,6 +107,7 @@ img{
 .credits{
   color:black;
   font:bold;
+  background-color: #14b39a;
 }
 
 .credits:hover{
